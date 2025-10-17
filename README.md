@@ -54,7 +54,7 @@ web-scraper-analyzer/
 Clone o repositório e instale as dependências:
 
 ```bash
-git clone https://github.com/seuusuario/web-scraper-analyzer.git
+git clone https://github.com/Yuri-amaralsantos/pythonWebscrapperNews.git
 pip install -r requirements.txt
 ```
 
