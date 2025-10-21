@@ -49,7 +49,7 @@ web-scraper-analyzer/
 
 ---
 
-## 🚀 Como Executar
+## Como Executar
 
 Clone o repositório e instale as dependências:
 
